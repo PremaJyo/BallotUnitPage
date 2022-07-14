@@ -1,0 +1,227 @@
+
+#fdiv{
+    float:left;
+    border-radius:15px;
+    margin:20px;
+    background-color:rgb(146, 144, 144);   
+    height:800px;
+    width:50%;
+    padding:10px;
+    border:3px solid rgb(43, 42, 42);
+}
+#sdiv{
+    margin-top:30px;
+    width:30%;
+    background-color:rgb(146, 144, 144);
+    border:3px solid rgb(77, 75, 75);
+    float:right;
+    padding:20px;
+    height:500px;
+}
+.readyp{
+    position:relative;
+    top:30px;
+    margin-left:150px;  
+}
+#readybutton{
+    background-color:red;
+    border-width:0px;
+    height:10px;
+    width:10px;
+    border-radius:8px;
+}
+.top{
+    position:relative;
+    top:60px;
+    float:right;
+    margin-right:150px;
+}
+#unitbutton{
+    border-width:0px;
+    background-color:black;
+    height:10px;
+    width:10px;
+    border-radius:8px;
+}
+
+.list{
+    background-image:linear-gradient(to bottom,white,rgb(156, 250, 218));
+    border-radius:10px;
+    padding:10px;
+    height:40px;
+}
+.list img{
+    height:40px;
+    width:40px;
+    float:right;
+    border-radius:15px;
+}
+.list p{
+    margin:20px;
+    font-weight:bold;
+    font-size:20px;
+    color:rgb(228, 8, 8);
+    display:inline;
+    font-family:Verdana;
+}
+#right{
+    margin-top:80px;
+    float:right;
+    background-color:white;
+    height:500px;
+    width:40%;
+    display:inline;
+    border-radius:2px;
+    border-top:2px solid black;
+}
+#left{
+    margin-top:40px;
+    float:left;
+    height:605px;
+    width:60%;
+    background-color:rgb(201, 192, 192);
+    border-radius:10px;
+}
+.rlist{
+    height:56px;
+    width:100%;
+    background-color:rgb(201, 192, 192);
+    border-top:2px solid rgb(88, 88, 88);
+    border-bottom:2px solid rgb(88, 88, 88);
+}
+
+.icons{
+    color:red;
+}
+.rlist button{
+    background-color:rgb(2, 53, 66);
+    height:40px;
+    width:80px;
+    border-width:0px;
+    float:right;
+    margin-right:80px;
+    border-radius:25px;
+    margin-top:10px;
+
+}
+.displayarea{
+    text-align:center;
+    border:3px solid rgb(201, 145, 41);
+    background-color: black;
+    border-radius:3px;
+    height:110px;
+    width:80%;
+    margin-left:40px;
+}
+#powerbut{
+    border:2px solid black;
+    margin-top:20px;
+    margin-right:50px;
+    float:right;
+    /*background-image:radial-gradient(white,green,green);*/
+    background-color:green;
+    height:20px;
+    width:20px;
+    border-radius:10px;
+
+}
+#plabel{
+    margin-top:17px;
+    text-align:right;
+}
+
+#turnbut{
+    background-color:green;
+    height:50px;
+    border-width:0px;
+    width:50px;
+    margin-left:180px;
+    display:block;
+    box-shadow:grey;
+    margin-bottom:20px;
+    color:white;
+}
+#resetBut{
+    letter-spacing: 2px;
+    background-color:red;
+    height:40px;
+    width:100px;
+    border-width:0px;
+    color:white;
+    font-family:Verdana;
+    font-weight:bold;
+    margin-left:50px;
+    margin-right:100px;
+    box-shadow:5px 5px rgb(129, 128, 128);
+}
+#countBut{
+    letter-spacing: 2px;
+    background-color:grey;
+    height:40px;
+    width:100px;
+    border-width:0px;
+    color:white;
+    font-family:Verdana;
+    font-weight:bold;
+    box-shadow:5px 5px rgb(114, 113, 113);
+}
+.tick{
+    color:rgb(136, 133, 133);
+    font-size:35px;
+    height:50px;
+    width:50px;
+    background-color:rgb(114, 113, 113);
+    border-width:0px;
+
+}
+.wrong{
+    color:rgb(134, 131, 131);
+    font-size:35px;
+    height:50px;
+    width:50px;
+    background-color:rgb(114, 113, 113);
+    border-width:0px;
+}
+.wrong img{
+    height:30px;
+    width:30px;
+}
+.imgdisplay{
+    margin-top:2px;
+    height:100px;
+    width:100px;
+}
+#countpage{
+    background-image:linear-gradient(to bottom,#43c6ac,#191654);
+    background-color: aquamarine;
+    text-align:center;
+    height:500px;
+    width:500px;
+    padding:50px;
+    display:none;
+}
+#countpage h4,p{
+    color:white;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:20px;
+
+}
+
+.rlist img{
+    height:30px;
+    width:30px;
+    margin-left:40px;
+    margin-top:10px;
+    border-radius:25px;
+}
+.iconsimg{
+    height:40px;
+    width:40px;
+    border-radius:20px;
+}
+#displaypic{
+    height:100px;
+    width:100px;
+    border-radius:20px;
+}
